@@ -1,0 +1,15 @@
+/* font-family: 'Inter', sans-serif; 
+font-family: 'Lexend Deca', sans-serif; */
+
+.header {
+  width: 550px;
+  min-height: auto;
+  max-width: 550px;
+  background-color: hsl(244, 38%, 16%);
+}
+
+.image {
+}
+
+.numbers {
+}
